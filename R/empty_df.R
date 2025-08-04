@@ -1,3 +1,6 @@
+# Eliot Dixon
+# 2025.08.04
+
 #' Create an empty data.frame with specified number of columns and column names
 #'
 #' @param ncol integer; number of columns
